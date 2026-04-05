@@ -67,11 +67,3 @@ nmap_portscan_gui/
 ├── portscanergui.py   # Main application (scanner + GUI)
 └── README.md
 ```
-
-## Disclaimer
-
-Use this tool only on hosts and networks you own or have explicit permission to scan. Unauthorized port scanning may be illegal in your jurisdiction.
-
-## License
-
-This project is released under the [MIT License](https://opensource.org/licenses/MIT).
